@@ -43,4 +43,6 @@
 - DLQ records are periodically reprocessed to check for new matches.
 
 
+## Architecture Daigram
+
 ![Architecture](architecture.png)
