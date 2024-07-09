@@ -43,4 +43,4 @@
 - DLQ records are periodically reprocessed to check for new matches.
 
 
-`![Architecture](architecture.png)`
+![Architecture](architecture.png)
